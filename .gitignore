@@ -1,0 +1,6 @@
+__pycache__
+results/*
+!results/.results
+trash.py
+try.py 
+node_modules

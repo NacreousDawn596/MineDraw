@@ -1,0 +1,9 @@
+{
+    "host": "SERVER ADRESS",
+    "port": 25522,
+    "username": "USERNAME or username@example.com",
+    "hideErrors": false,
+    "version": false,
+    "password": false,
+    "auth": false
+}
